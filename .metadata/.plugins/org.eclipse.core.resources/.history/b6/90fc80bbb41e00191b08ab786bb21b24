@@ -1,0 +1,13 @@
+package com.inmin.rest.webservices.restfulwebservices;
+
+import org.springframework.context.annotation.Configuration;
+
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
+
+//configuration
+@Configuration
+//Enable Swagger
+@EnableSwagger2
+public class SwaggerConfig {
+	
+}

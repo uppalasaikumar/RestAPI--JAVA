@@ -1,0 +1,16 @@
+package com.interview.sol;
+
+import java.util.Arrays;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		T[] arr = new T[] {1,2,5,3,2,5,6};
+		
+		
+		
+	}
+
+}

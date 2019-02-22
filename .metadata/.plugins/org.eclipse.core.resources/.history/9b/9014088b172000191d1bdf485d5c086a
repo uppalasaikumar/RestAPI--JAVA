@@ -1,0 +1,13 @@
+package com.interview.sol;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Integer[] arr = new Integer[10] {1,2,5,3,2,5,6};
+		
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+package com.interview.sol;
+
+public class DupilcatesArray<T> {
+
+	public DupilcatesArray() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	
+	public void compare(){
+		
+	}
+
+	
+	
+
+}

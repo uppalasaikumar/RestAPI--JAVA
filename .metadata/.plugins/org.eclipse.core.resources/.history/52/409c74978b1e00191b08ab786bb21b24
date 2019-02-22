@@ -1,0 +1,10 @@
+package com.inmin.rest.webservices.restfulwebservices;
+
+public class User {
+
+	private Integer id;
+	
+	private String name;
+	
+	private Date birthDate;
+}

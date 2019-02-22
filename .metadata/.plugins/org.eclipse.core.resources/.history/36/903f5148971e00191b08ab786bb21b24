@@ -1,0 +1,7 @@
+package com.inmin.rest.webservices.restfulwebservices.exception;
+
+public class ExceptionResponse {
+
+	// we need timestamp,message, details in body
+	
+}

@@ -1,0 +1,5 @@
+package com.inmin.rest.webservices.restfulwebservices;
+
+public class User {
+
+}

@@ -1,0 +1,10 @@
+package com.inmin.rest.webservices.restfulwebservices.exception;
+
+import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
+
+// need to apply this handler to all controllers
+public class CustomizedResponseEntityExceptionHandler 
+extends ResponseEntityExceptionHandler
+{
+
+}
